@@ -69,4 +69,4 @@ We provide 16 [pre-trained](https://pan.baidu.com/s/1zktP9EumKaL4r1x4fDK3sg?pwd=
 
 ## Contact Us
 
-If you have any questions, please contact Runmin Cong at [rmcong@sdu.edu.cn](mailto:rmcong@sdu.edu.cn) or Wenyu Yang at [xionghang@bjtu.edu.cn](mailto:xionghang@bjtu.edu.cn).
+If you have any questions, please contact Runmin Cong at [rmcong@sdu.edu.cn](mailto:rmcong@sdu.edu.cn) or Hang Xiong at [xionghang@bjtu.edu.cn](mailto:xionghang@bjtu.edu.cn).
